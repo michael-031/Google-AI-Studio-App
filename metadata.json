@@ -1,0 +1,6 @@
+{
+  "name": "Piano Quest",
+  "description": "An educational piano learning adventure where players journey through worlds and complete interactive keyboard lessons, earning XP, coins, and unlocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
